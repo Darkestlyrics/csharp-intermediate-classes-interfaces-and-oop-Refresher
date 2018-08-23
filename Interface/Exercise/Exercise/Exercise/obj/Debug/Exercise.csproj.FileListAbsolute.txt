@@ -1,0 +1,7 @@
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\bin\Debug\Exercise.exe.config
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\bin\Debug\Exercise.exe
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\bin\Debug\Exercise.pdb
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\obj\Debug\Exercise.exe
+F:\Milk\csharp-intermediate-classes-interfaces-and-oop-Refresher\Interface\Exercise\Exercise\Exercise\obj\Debug\Exercise.pdb
